@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         AliExpress Domain Changer
+// @name         AliRedirect
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Автоматически заменяет домен aliexpress.com на aliexpress.ru
