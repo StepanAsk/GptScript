@@ -3,6 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      2.0
 // @description  Проверка URL, нажатие Enter, предотвращение новой строки, автоматическое открытие ссылки и клик по кнопке
+// @author       SaintAsk
 // @match        https://outside-gcpconsole.cainiao.com/aEOrderList*
 // @grant        none
 // ==/UserScript==
