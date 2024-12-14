@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Авто-клик на элемент выпадающего списка (фикс)
+// @name         LDS
 // @namespace    http://tampermonkey.net/
-// @version      1.4
+// @version      1.0
 // @description  Автоматический клик на элемент, совпадающий с текстом, введённым в поле ввода, после завершения ввода
 // @author       SaintAsk
 // @match        https://lds.ru.cainiao.com/*
