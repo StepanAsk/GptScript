@@ -3,6 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Открытие, очистка, нажатие кнопки и закрытие CodeMirror на Cainiao
+// @author       SaintAsk
 // @match        https://global.cainiao.com/*
 // @grant        none
 // ==/UserScript==
