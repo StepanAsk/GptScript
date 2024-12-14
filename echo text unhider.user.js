@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         Cainiao Hidden Text Revealer v6.0
+// @name         echo text unhider
 // @namespace    http://tampermonkey.net/
-// @version      6.0
+// @version      1.0
 // @description  Автоматическое раскрытие скрытого текста без кнопки и логов
 // @author       SaintAsk
 // @match        https://echo.sg.cainiao.com/p/online
