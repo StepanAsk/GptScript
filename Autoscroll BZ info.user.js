@@ -1,8 +1,9 @@
 // ==UserScript==
 // @name         Autoscroll BZ info
-// @namespace    https://github.com/StepanAsk/GptScript
+// @homepageURL  https://github.com/StepanAsk/GptScript
 // @version      1.0
 // @description  Прокрутка к последнему статусу БЗ, чтобы посмотреть куда переводить CP.
+// @supportURL   https://t.me/St_ask
 // @author       SaintAsk
 // @match        https://outside-gcpconsole.cainiao.com/aeNewOrderDetail?orderCode=*
 // @grant        none
