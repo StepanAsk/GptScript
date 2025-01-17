@@ -7,10 +7,10 @@
 // @author       SaintAsk
 // @match        *://*.aliexpress.com/*
 // @icon         https://www.aliexpress.com/favicon.ico
-// @updateURL    https://github.com/StepanAsk/GptScript/raw/refs/heads/main/AliRedirect.user.js
-// @downloadURL  https://github.com/StepanAsk/GptScript/raw/refs/heads/main/AliRedirect.user.js
 // @run-at       document-start
 // @grant        none
+// @updateURL    https://github.com/StepanAsk/GptScript/raw/refs/heads/main/AliRedirect.user.js
+// @downloadURL  https://github.com/StepanAsk/GptScript/raw/refs/heads/main/AliRedirect.user.js
 // ==/UserScript==
 
 (function() {
