@@ -7,9 +7,9 @@
 // @author       SaintAsk
 // @match        https://global.cainiao.com/*
 // @icon         https://global.cainiao.com/favicon.ico
+// @grant        none
 // @updateURL    https://github.com/StepanAsk/GptScript/raw/refs/heads/main/Global.user.js
 // @downloadURL  https://github.com/StepanAsk/GptScript/raw/refs/heads/main/Global.user.js
-// @grant        none
 // ==/UserScript==
 
 (function () {
