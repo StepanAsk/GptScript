@@ -6,6 +6,7 @@
 // @supportURL   https://t.me/St_ask
 // @author       SaintAsk
 // @match        https://outside-gcpconsole.cainiao.com/aeNewOrderDetail?orderCode=*
+// @icon         https://www.aliexpress.com/favicon.ico
 // @grant        none
 // @updateURL    https://github.com/StepanAsk/GptScript/raw/refs/heads/main/Autoscroll%20BZ%20info.js
 // @downloadURL  https://github.com/StepanAsk/GptScript/raw/refs/heads/main/Autoscroll%20BZ%20info.js
