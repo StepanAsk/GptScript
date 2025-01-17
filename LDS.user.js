@@ -1,11 +1,15 @@
 // ==UserScript==
 // @name         LDS
-// @namespace    http://tampermonkey.net/
+// @homepageURL  https://github.com/StepanAsk/GptScript
 // @version      1.0
-// @description  Автоматический клик на элемент, совпадающий с текстом, введённым в поле ввода, после завершения ввода
+// @description  Автоклик поиска по пробитому треку в LDS
+// @supportURL   https://t.me/St_ask
 // @author       SaintAsk
 // @match        https://lds.ru.cainiao.com/*
+// @icon         https://global.cainiao.com/favicon.ico
 // @grant        none
+// @updateURL    https://github.com/StepanAsk/GptScript/raw/refs/heads/main/LDS.user.js
+// @downloadURL  https://github.com/StepanAsk/GptScript/raw/refs/heads/main/LDS.user.js
 // ==/UserScript==
 
 (function () {
