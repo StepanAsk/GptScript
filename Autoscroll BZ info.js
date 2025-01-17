@@ -1,12 +1,13 @@
 // ==UserScript==
 // @name         Autoscroll BZ info
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/StepanAsk/GptScript
 // @version      1.0
-// @description  Прокрутка к .detail-box > h3:nth-child(41), чтобы он оказался на нижней части экрана после прокрутки.
+// @description  Прокрутка к последнему статусу БЗ, чтобы посмотреть куда переводить CP.
 // @author       SaintAsk
 // @match        https://outside-gcpconsole.cainiao.com/aeNewOrderDetail?orderCode=*
-// @icon         https://www.google.com/s2/favicons?domain=cainiao.com
 // @grant        none
+// @updateURL    https://github.com/StepanAsk/GptScript/raw/refs/heads/main/Autoscroll%20BZ%20info.js
+// @downloadURL  https://github.com/StepanAsk/GptScript/raw/refs/heads/main/Autoscroll%20BZ%20info.js
 // ==/UserScript==
 
 (function () {
