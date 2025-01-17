@@ -1,10 +1,14 @@
 // ==UserScript==
 // @name         AliRedirect
-// @namespace    http://tampermonkey.net/
+// @homepageURL  http://tampermonkey.net/
 // @version      1.0
 // @description  Автоматически заменяет домен aliexpress.com на aliexpress.ru
+// @supportURL   https://t.me/St_ask
 // @author       SaintAsk
 // @match        *://*.aliexpress.com/*
+// @icon         https://www.aliexpress.com/favicon.ico
+// @updateURL    https://github.com/StepanAsk/GptScript/raw/refs/heads/main/AliRedirect.user.js
+// @downloadURL  https://github.com/StepanAsk/GptScript/raw/refs/heads/main/AliRedirect.user.js
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
