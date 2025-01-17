@@ -1,10 +1,14 @@
 // ==UserScript==
 // @name         Global
-// @namespace    http://tampermonkey.net/
+// @homepageURL  https://github.com/StepanAsk/GptScript
 // @version      1.0
-// @description  Открытие, очистка, нажатие кнопки и закрытие CodeMirror на Cainiao
+// @description  Добавляет старый функционал нажатия enter в глобал
+// @supportURL   https://t.me/St_ask
 // @author       SaintAsk
 // @match        https://global.cainiao.com/*
+// @icon         https://global.cainiao.com/favicon.ico
+// @updateURL    https://github.com/StepanAsk/GptScript/raw/refs/heads/main/Global.user.js
+// @downloadURL  https://github.com/StepanAsk/GptScript/raw/refs/heads/main/Global.user.js
 // @grant        none
 // ==/UserScript==
 
