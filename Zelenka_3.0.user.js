@@ -2,10 +2,14 @@
 // @name         Zelenka v3.0
 // @namespace    http://tampermonkey.net/
 // @version      3.0
-// @description  Проверка URL, нажатие Enter, предотвращение новой строки, автоматическое открытие ссылки и клик по кнопке
+// @description  Добавляет функционал нажатия enter для пробивки трека
+// @supportURL   https://t.me/St_ask
 // @author       SaintAsk
 // @match        https://outside-gcpconsole.cainiao.com/aEOrderList*
+// @icon         https://global.cainiao.com/favicon.ico
 // @grant        none
+// @updateURL    https://github.com/StepanAsk/GptScript/raw/refs/heads/main/Zelenka_3.0.user.js
+// @downloadURL  https://github.com/StepanAsk/GptScript/raw/refs/heads/main/Zelenka_3.0.user.js
 // ==/UserScript==
 
 (function() {
