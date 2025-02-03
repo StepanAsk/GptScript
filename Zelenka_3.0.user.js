@@ -1,15 +1,15 @@
 // ==UserScript==
-// @name         Zelenka v3.0
+// @name         Zelenka v4.0
 // @namespace    http://tampermonkey.net/
-// @version      3.0
+// @version      4.0
 // @description  Добавляет функционал нажатия enter для пробивки трека
 // @supportURL   https://t.me/St_ask
 // @author       SaintAsk
 // @match        https://outside-gcpconsole.cainiao.com/aEOrderList*
 // @icon         https://global.cainiao.com/favicon.ico
 // @grant        none
-// @updateURL    https://github.com/StepanAsk/GptScript/raw/refs/heads/main/Zelenka_3.0.user.js
-// @downloadURL  https://github.com/StepanAsk/GptScript/raw/refs/heads/main/Zelenka_3.0.user.js
+// @updateURL    https://github.com/StepanAsk/GptScript/raw/refs/heads/main/Zelenka_4.0.user.js
+// @downloadURL  https://github.com/StepanAsk/GptScript/raw/refs/heads/main/Zelenka_4.0.user.js
 // ==/UserScript==
 
 (function() {
@@ -36,6 +36,21 @@
                     langDropdown.dispatchEvent(new Event('change')); // Тригерим событие изменения
                 }
             }
+        }
+
+        // Отключение кликабельности для .mui-form-row > a:nth-child(3)
+        const nonClickableLink = document.querySelector('.mui-form-row > a:nth-child(3)');
+        if (nonClickableLink) {
+            nonClickableLink.style.pointerEvents = 'none';
+            nonClickableLink.style.cursor = 'default';
+        }
+    });
+
+    // Очищение поля ввода при фокусе
+    document.addEventListener('focusin', (event) => {
+        const inputMessage = document.querySelector('#inputMessage');
+        if (event.target === inputMessage) {
+            inputMessage.value = ''; // Очищаем поле ввода
         }
     });
 
