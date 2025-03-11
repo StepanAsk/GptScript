@@ -8,8 +8,8 @@
 // @match        https://outside-gcpconsole.cainiao.com/aEOrderList*
 // @icon         https://global.cainiao.com/favicon.ico
 // @grant        none
-// @updateURL    https://github.com/StepanAsk/GptScript/raw/refs/heads/main/Zelenka_5.0.user.js
-// @downloadURL  https://github.com/StepanAsk/GptScript/raw/refs/heads/main/Zelenka_5.0.user.js
+// @updateURL    https://github.com/StepanAsk/GptScript/raw/refs/heads/main/Zelenka_6.0.user.js
+// @downloadURL  https://github.com/StepanAsk/GptScript/raw/refs/heads/main/Zelenka_6.0.user.js
 // ==/UserScript==
 
 (function() {
